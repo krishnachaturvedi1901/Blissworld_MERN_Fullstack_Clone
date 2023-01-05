@@ -10,6 +10,8 @@ We have successfully created the full-stack clone of <a href='https://www.blissw
 * [Code on GitHub](https://github.com/FlixionDev/Bliss_World_Full_Stack_Clone)
 
 * [Blog](https://blissworld-mern-fullstack-clone.hashnode.dev/mern-full-stack-clone)
+
+* [Project Demo Vedio](https://drive.google.com/file/d/1mTwlYmGSOTKEw2VztnpGyL9lwiwiJezU/view?usp=share_link)
     
 
 ### We used the following tech stack in this clone -
